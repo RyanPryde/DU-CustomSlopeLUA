@@ -5,7 +5,7 @@ font = loadFont('Play',12)
 
 -------------------------------------------------------------------
 --EDIT Line Points below:
---startpoint: 0/0 is bottom left corner
+--startpoint: 0/613 is bottom left corner
 AX = 0
 AY = 613
 
