@@ -1,4 +1,4 @@
-![alt text](/Slope Screen.jpg)
+![alt text](/Slope_Screen.jpg)
 
 # DU-CustomSlopeLUA
 
