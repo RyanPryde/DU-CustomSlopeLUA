@@ -29,7 +29,7 @@ addText(text,font,M2,10,600)
 addText(text,font,M3,970,20)
 addText(text,font,Desc,380,20)
 addText(text,font2,"rx: "..math.floor(cx).."",360,50)
-addText(text,font2,"rx: "..math.floor(cy).."",500,50)
+addText(text,font2,"ry: "..math.floor(cy).."",500,50)
 -- Cursor setup --
 cursorlayer = createLayer()
 cursorlayer2 = createLayer()
